@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Fahry Ardian Syahputra
 
-<!--
-**fahryans/fahryans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Junior Web Developer  
+💻 Focused on Laravel & PHP Backend Development
 
-Here are some ideas to get you started:
+🚀 Skills
+- PHP
+- Laravel
+- MySQL
+- Blade
+- Bootstrap / Tailwind
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Learning Projects
+- Blog Management System (Laravel)
+- CRUD Applications
+- Authentication System
+- REST API (Laravel Sanctum)
+
+🎯 Goals
+- Master Laravel Backend Development
+- Build real-world web applications
+- Ready for internship / junior developer role
+  
+📫 Contact
+- Email: fahryardiansyt@gmail.com
+- GitHub: https://github.com/fahryans
